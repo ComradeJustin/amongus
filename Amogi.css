@@ -1,0 +1,132 @@
+
+        .title {
+                text-align: center;
+                position: relative;
+                color: #ffffff;
+                font-family: monospace;
+                font-size:  90px;
+        }
+
+        .bor-color{
+            border-style:solid; 
+            border-color: rgba(255, 255, 255, 0.459);
+        }
+
+        span {
+            padding: 1px;
+            margin: 1px;
+            border: 1px solid white;
+            color: white;
+            display: inline-flex;
+        }
+        .content{
+            text-align: center;
+            font-family: monospace;
+            color: #ffffff;
+            font-size: 20px;
+            position: relative;
+        }
+        .content2{
+            font-family: monospace;
+            color: #ffffff;
+            font-size: 18px;
+            position: sticky;
+            top: 150px;
+            text-align: center;
+            display:grid;
+            justify-content: center;
+            white-space: nowrap;
+        }
+        .ascii-art {
+    font-family: monospace;
+    white-space: pre;
+    text-align: left;
+}
+img {
+                cursor: grab;
+            }
+            img:active {
+                cursor: grabbing;
+}
+.github {
+    text-align: left;
+    position: fixed;
+    bottom: 15px;
+    left: 14px;
+    color: #ffffff;
+    font-family: monospace;
+    font-size: 20px;
+}
+.background {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+.textamogi{
+    right: 300;
+    position: absolute;
+    top: 50px;
+}
+.miniheader{
+    font-family: monospace;
+    color: #ffffff;
+    position: absolute;
+    right: 750px;
+    top: 100px;
+    font-size: 25px;
+    
+}
+
+.paragraph{
+    font-family: monospace;
+    color: #ffffff;
+ 
+    font-size: 14px;
+    text-align: start;
+    padding-left: 20%;
+    word-break: break-all;
+    width: 53%;
+    white-space: pre-line;
+}
+.rightsidebar{
+    position: static;
+    font-family: monospace;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: start;
+    white-space: pre-line;
+    word-break: break-all;  
+}
+.leftsidebar{
+    padding-top: 20%;
+    padding-left: 0%;
+    height: 300px;
+    width: 400px;
+    position: static;
+    font-family: monospace;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: start;
+    white-space: pre-line;
+    word-break: break-all;  
+
+    display: inside;
+}
+.imageright{
+    padding-bottom: 10%;
+    position: absolute;
+    padding-left: 70%;
+}
+.paragraphnopadding{
+    font-family: monospace;
+    color: #ffffff;
+    position: absolute;
+    font-size: 34px;
+    text-align: start;
+    word-break: break-all;
+    white-space: pre-line;
+}
+.minititle{
+    font-size: 34px;
+    padding-right: 15%;
+    font-family: amongus;
+}
